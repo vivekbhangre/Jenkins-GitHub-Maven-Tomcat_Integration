@@ -378,15 +378,27 @@ http://localhost:8090/devops-webapp
 
 ## 📸 Screenshots
 
-> *(Replace with your actual screenshots after setup)*
-
-| Screenshot | Description |
-|-----------|-------------|
-| `jenkins-job.png` | Jenkins Freestyle job showing green build status |
-| `console-output.png` | Console output with `BUILD SUCCESS` and deploy confirmation |
-| `tomcat-manager.png` | Tomcat Manager showing app listed as running |
-| `github-webhook.png` | GitHub webhook settings with green tick (delivery success) |
-| `live-app.png` | The deployed `index.jsp` page live in the browser |
+<img width="960" height="909" alt="Maven Project Creation" src="https://github.com/user-attachments/assets/01ec78ca-d234-4396-a4c7-a2285023bcf4" />
+<br>
+<img width="1919" height="1079" alt="Initial Tomcat Web Application Manager Page" src="https://github.com/user-attachments/assets/51f3a281-3168-44a0-b30f-3c14f473fea7" />
+<br>
+<img width="1919" height="704" alt="Jenkins Job Creation Step1" src="https://github.com/user-attachments/assets/3eae3ab3-6e39-4553-bb5e-87a5e2e7dfdc" />
+<br>
+<img width="1919" height="975" alt="Jenkins Job Creation Step2" src="https://github.com/user-attachments/assets/3cbff2aa-2ab1-49ec-8030-a3d7f73c9efd" />
+<br>
+<img width="1919" height="694" alt="Jenkins Job Creation Step3" src="https://github.com/user-attachments/assets/d26498c3-4b0b-4f75-bc7d-44bbae4139ae" />
+<br>
+<img width="1916" height="968" alt="Jenkins Job Creation Step4" src="https://github.com/user-attachments/assets/ef43adff-0d9d-4fcd-b68f-dad3285d7b3a" />
+<br>
+<img width="1919" height="1079" alt="Jenkins Job Creation Step5" src="https://github.com/user-attachments/assets/578f1fc1-c61e-422b-b647-f551b7922c6f" />
+<br>
+<img width="1919" height="682" alt="After Configuring Our Job" src="https://github.com/user-attachments/assets/c215f90f-7335-44ad-8af0-2d969c894816" />
+<br>
+<img width="1919" height="560" alt="Job Completion" src="https://github.com/user-attachments/assets/2fcbc7b6-7450-4214-aee5-e141f1281fe7" />
+<br>
+https://github.com/user-attachments/assets/e9c5afb8-6b67-456d-bf81-099b4490bd37
+<br>
+https://github.com/user-attachments/assets/bf3cb2c0-e60f-4c4e-8410-96a735d4a545
 
 ---
 
@@ -419,6 +431,7 @@ http://localhost:8090/devops-webapp
 ## 🔮 Future Improvements
 
 - [ ] Migrate to a **Jenkins Pipeline Job** with a `Jenkinsfile` for version-controlled pipeline config
+- [ ] Add Poll SCM in order to build, test, and deploy whenever commit happen in the GitHub repo
 - [ ] Add **SonarQube** for static code analysis and quality gates
 - [ ] Containerize the app with **Docker** and push image to Docker Hub
 - [ ] Deploy to **Kubernetes** cluster
@@ -431,8 +444,8 @@ http://localhost:8090/devops-webapp
 
 ## 🙋‍♂️ Author
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
+- GitHub: https://github.com/vivekbhangre
+- LinkedIn: www.linkedin.com/in/vivekbhangre
 
 ---
 
