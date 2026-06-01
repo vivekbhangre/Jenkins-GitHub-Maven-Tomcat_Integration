@@ -1,6 +1,6 @@
-# 🚀 DevOps CI/CD Pipeline — Jenkins + Maven + GitHub + Tomcat
+# 🚀 DevOps CI/CD Automation — Jenkins + Maven + GitHub + Tomcat
 
-> An end-to-end automated CI/CD pipeline that takes a Java web application from a GitHub push to a live deployment on Apache Tomcat — with **zero manual steps** in between.
+> An end-to-end automated CI/CD integration that takes a Java web application from a GitHub push to a live deployment on Apache Tomcat — with **zero manual steps** in between.
 
 ---
 
@@ -10,7 +10,7 @@
 - [Architecture](#-architecture)
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
-- [Pipeline Flow](#-pipeline-flow)
+- [Build & Deploy Flow](#-build--deploy-flow)
 - [Prerequisites](#-prerequisites)
 - [Setup & Installation](#-setup--installation)
   - [1. Jenkins Setup](#1-jenkins-setup)
